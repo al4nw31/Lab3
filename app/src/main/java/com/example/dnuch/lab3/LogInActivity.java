@@ -70,12 +70,13 @@ public class LogInActivity extends AppCompatActivity implements GoogleApiClient.
         if (result.isSuccess()) {
             goMainScreen();
         } else {
-            Toast.makeText(this, "Log In Failed", Toast.LENGTH_SHORT).show();
+            goMainScreen(); //just for testing
+            //Toast.makeText(this, "Log In Failed Now", Toast.LENGTH_SHORT).show();
         }
     }
 
     private void goMainScreen() {
-        Intent intent = new Intent(this, MainActivity.class);
+        Intent intent = new Intent(this, Main2Activity.class);
         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK);
         startActivity(intent);
     }
