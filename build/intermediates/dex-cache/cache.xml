@@ -3,23 +3,13 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
-        jumboMode="false"
-        min-sdk-version="23"
-        optimize="true"
-        revision="26.0.2"
-        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\21.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\26a3f48227cd43da859dd2cc48470f34\jars\classes.jar"
         jumboMode="false"
         min-sdk-version="23"
         optimize="true"
         revision="26.0.2"
         sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\12.jar" />
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\13.jar" />
     </item>
     <item
         is-multidex="false"
@@ -43,63 +33,13 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\33c2b1b9ec0d4d577c6981db96ae64cd\jars\classes.jar"
+        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\034fe88d0b6babc25e5bfbacf7e4bbaa\jars\classes.jar"
         jumboMode="false"
         min-sdk-version="23"
         optimize="true"
         revision="26.0.2"
-        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\19.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\199f028238004b1f943a46bde6a443c0\jars\classes.jar"
-        jumboMode="false"
-        min-sdk-version="23"
-        optimize="true"
-        revision="26.0.2"
-        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\08f8125bf0774dc81ede3514e708cb61\jars\classes.jar"
-        jumboMode="false"
-        min-sdk-version="23"
-        optimize="true"
-        revision="26.0.2"
-        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\13.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\3df1300415215bdb73d3faecafafa468\jars\classes.jar"
-        jumboMode="false"
-        min-sdk-version="23"
-        optimize="true"
-        revision="26.0.2"
-        sha1="190a642ba16d1421296a4d794606279b80039c59">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
-        jumboMode="false"
-        min-sdk-version="23"
-        optimize="true"
-        revision="26.0.2"
-        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\25.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7d0ac975c06e9eebb625cc9907437536\jars\classes.jar"
-        jumboMode="false"
-        min-sdk-version="23"
-        optimize="true"
-        revision="26.0.2"
-        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\14.jar" />
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\17.jar" />
     </item>
     <item
         is-multidex="false"
@@ -113,13 +53,13 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7cce6754b0a237f6c393ae0fc545c70d\jars\classes.jar"
+        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\708996e04c2f53c27eeb4d7ac2980ea9\jars\classes.jar"
         jumboMode="false"
         min-sdk-version="23"
         optimize="true"
         revision="26.0.2"
-        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\20.jar" />
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,17 +69,7 @@
         optimize="true"
         revision="26.0.2"
         sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\55b2a11a26e55e46ad77d44234532711\jars\classes.jar"
-        jumboMode="false"
-        min-sdk-version="23"
-        optimize="true"
-        revision="26.0.2"
-        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\16.jar" />
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\4.jar" />
     </item>
     <item
         is-multidex="false"
@@ -149,7 +79,7 @@
         optimize="true"
         revision="26.0.2"
         sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\11.jar" />
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\12.jar" />
     </item>
     <item
         is-multidex="false"
@@ -159,37 +89,7 @@
         optimize="true"
         revision="26.0.2"
         sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Richard&apos;s Stealth\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        min-sdk-version="23"
-        optimize="true"
-        revision="26.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\22.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\425f65770dd44334c1175526f6d5a136\jars\classes.jar"
-        jumboMode="false"
-        min-sdk-version="23"
-        optimize="true"
-        revision="26.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\15.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\fc5d6b2d9bc5a716adbdff2aa4cd7853\jars\classes.jar"
-        jumboMode="false"
-        min-sdk-version="23"
-        optimize="true"
-        revision="26.0.2"
-        sha1="9ff04cc3470178a44512624036751a803418c2ca">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\7.jar" />
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -199,7 +99,7 @@
         optimize="true"
         revision="26.0.2"
         sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\4.jar" />
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -209,7 +109,17 @@
         optimize="true"
         revision="26.0.2"
         sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
-        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\18.jar" />
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\cbed29af9a1df50c24ef758014d40dab\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\16.jar" />
     </item>
     <item
         is-multidex="false"
@@ -239,7 +149,127 @@
         optimize="true"
         revision="26.0.2"
         sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\33c2b1b9ec0d4d577c6981db96ae64cd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\199f028238004b1f943a46bde6a443c0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\08f8125bf0774dc81ede3514e708cb61\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\3df1300415215bdb73d3faecafafa468\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
         <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7d0ac975c06e9eebb625cc9907437536\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7cce6754b0a237f6c393ae0fc545c70d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\55b2a11a26e55e46ad77d44234532711\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard&apos;s Stealth\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\425f65770dd44334c1175526f6d5a136\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard&apos;s Stealth\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\fc5d6b2d9bc5a716adbdff2aa4cd7853\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Richard&apos;s Stealth\Documents\Git\Lab3\app\build\intermediates\transforms\preDex\release\8.jar" />
     </item>
 
 </items>

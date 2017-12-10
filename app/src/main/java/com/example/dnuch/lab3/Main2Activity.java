@@ -18,14 +18,18 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
+import android.support.v4.app.FragmentManager;
+//import android.support.v7.app.ActionBarActivity;
+import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
+
 import android.widget.TextView;
 
 public class Main2Activity extends AppCompatActivity {
 
     private static final String TAG = "Main2Activity";
-
     private SectionsPageAdapter mSectionsPageAdapter;
-
     private ViewPager mViewPager;
 
     @Override
@@ -42,6 +46,12 @@ public class Main2Activity extends AppCompatActivity {
 
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(mViewPager);
+
+
+
+
+
+
     }
 
     private void setupViewPager(ViewPager viewPager) {
