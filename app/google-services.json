@@ -15,11 +15,27 @@
       },
       "oauth_client": [
         {
-          "client_id": "178382619297-qk9qcntstebt59a1dk5sv846gnf1rb04.apps.googleusercontent.com",
+          "client_id": "178382619297-spfvtgens3evbm7a515c1ekr3chn5qfn.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.dnuch.lab3",
-            "certificate_hash": "c72bbd915b6cbfe42f6ca6c83ee3de534d2c7308"
+            "certificate_hash": "8f3ce63b4086b96bff23de21c0898eb77bd14e21"
+          }
+        },
+        {
+          "client_id": "178382619297-nofm1k8vm9pj3008togr6qv7pdv1egsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dnuch.lab3",
+            "certificate_hash": "a5716cd01b22d1c666aa69dc78e5c68d207b918a"
+          }
+        },
+        {
+          "client_id": "178382619297-3silt32auvt394v6jduf1psdcmed8dd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dnuch.lab3",
+            "certificate_hash": "d1455cfa31117f5a61cbe3bf80626d1d1ec92222"
           }
         },
         {
