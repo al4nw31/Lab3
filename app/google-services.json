@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "178382619297-vbpaj10p50o5108ne730m59v5qmi9bo4.apps.googleusercontent.com",
+          "client_id": "178382619297-qk9qcntstebt59a1dk5sv846gnf1rb04.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.dnuch.lab3",
-            "certificate_hash": "a5716cd01b22d1c666aa69dc78e5c68d207b918a"
+            "certificate_hash": "c72bbd915b6cbfe42f6ca6c83ee3de534d2c7308"
           }
         },
         {
