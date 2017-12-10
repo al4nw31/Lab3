@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "178382619297-3silt32auvt394v6jduf1psdcmed8dd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dnuch.lab3",
+            "certificate_hash": "d1455cfa31117f5a61cbe3bf80626d1d1ec92222"
+          }
+        },
+        {
           "client_id": "178382619297-qk9qcntstebt59a1dk5sv846gnf1rb04.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
